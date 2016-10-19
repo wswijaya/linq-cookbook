@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2Objects", "Linq2Objects\Linq2Objects.csproj", "{9A079FDC-BAB4-4F7C-BC21-A1462D90019E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2Xml", "Linq2Xml\Linq2Xml.csproj", "{22FC387E-AFC6-4B15-8396-4381C8439827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2AdoNet", "Linq2AdoNet\Linq2AdoNet.csproj", "{D383E105-AD91-45D4-9CC8-D54F28DB326D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9A079FDC-BAB4-4F7C-BC21-A1462D90019E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A079FDC-BAB4-4F7C-BC21-A1462D90019E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A079FDC-BAB4-4F7C-BC21-A1462D90019E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FC387E-AFC6-4B15-8396-4381C8439827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FC387E-AFC6-4B15-8396-4381C8439827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FC387E-AFC6-4B15-8396-4381C8439827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FC387E-AFC6-4B15-8396-4381C8439827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D383E105-AD91-45D4-9CC8-D54F28DB326D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D383E105-AD91-45D4-9CC8-D54F28DB326D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D383E105-AD91-45D4-9CC8-D54F28DB326D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D383E105-AD91-45D4-9CC8-D54F28DB326D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

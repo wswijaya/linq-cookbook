@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<course>
+  <lesson id="1" title="Introduction of LINQ to Objects">
+    <sublesson id="1.1" title="Get Started with LINQ">
+      <description>1.1 is really good</description>
+    </sublesson>
+    <sublesson id="1.2" title="See LINQ examples">
+      <description>1.2 is really good</description>
+    </sublesson>
+    <sublesson id="1.3" title="Understand the other lessons">
+      <description>1.3 is really good</description>
+    </sublesson>
+  </lesson>
+  <lesson id="2" title="Building LINQ queries on C# &amp; .NET Framework features">
+    <sublesson id="2.1" title="Enumerate objects" />
+    <sublesson id="2.2" title="Extend enumerations" />
+    <sublesson id="2.3" title="Filter objects" />
+    <sublesson id="2.4" title="Project result" />
+    <sublesson id="2.5" title="Use Query Syntax" />
+  </lesson>
+</course>
