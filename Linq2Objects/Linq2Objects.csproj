@@ -49,6 +49,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="data\name-list-3.csv" />
+    <None Include="data\name-list-4.csv" />
+    <None Include="data\student-list.csv" />
+    <None Include="data\test-scores.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data\name-list-1.txt" />
+    <Content Include="data\name-list-2.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
